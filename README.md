@@ -27,9 +27,9 @@
 
 ## Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:ahsan.bilal.cowlar@gmail.com)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/AhsanBilal7/)
-- 🌐 Website: [Website](https://ahsan-bilal.netlify.app/)
+- 📧 Email: [🔗](mailto:ahsan.bilal.cowlar@gmail.com)
+- 💼 LinkedIn: [🔗](https://www.linkedin.com/in/AhsanBilal7/)
+- 🌐 Website: [🔗](https://ahsan-bilal.netlify.app/)
 
 ## Fun Fact
 
